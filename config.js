@@ -11,35 +11,35 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-['5218711426787', 'CREADOR', true],
-['5216566753569', '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀', true],
-['5351524614'],
-['5217561063371'],
-['573012482597'],
-['5218715746374'],
-['5213142183828'],
-['5213141169709']
+['51920227615', 'CREADOR', true],
+['', '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀', true],
+[''],
+[''],
+[''],
+[''],
+[''],
+['']
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['5351524614', '5218711426787', '', '', '']
+global.mods = ['50240447765', '', '', '', '']
 
 global.suittag = ['5218711426787']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = '★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★'
-global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀'
-global.author = '❀🔥❀❦ǶꓴƬ𐤠Θ-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀'
-global.wm = '❀🔥❀❦ǶꓴƬ𐤠Θ-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀';
-global.titulowm = '★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★';
-global.titulowm2 = '❀🔥❀❦ǶꓴƬ𐤠Θ-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀'
-global.igfg = '❀🔥❀❦ǶꓴƬ𐤠Θ-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀'
-global.botname = '❀🔥❀❦ǶꓴƬ𐤠Θ-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀'
-global.dev = '★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★'
-global.textbot = '❀🔥❀❦ǶꓴƬ𐤠Θ-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀ : ★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★'
-global.gt = '𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀';
-global.namechannel = '❀🔥❀❦ǶꓴƬ𐤠Θ-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀'
+global.packsticker = '★彡( Nagi-Bot )彡★'
+global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻Nagi-Bot🈀'
+global.author = '❀🔥❀❦Nagi-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀'
+global.wm = '❀🔥❀Nagi-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀';
+global.titulowm = '★彡( SEƗSĦƗRO ṈȺGƗ )彡★';
+global.titulowm2 = '❀🔥❀❦Nagi-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀'
+global.igfg = '❀🔥❀❦Nagi-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀'
+global.botname = '❀🔥❀❦Nagi-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀'
+global.dev = '★彡( SEƗSĦƗRO ṈȺGƗ )彡★'
+global.textbot = '❀🔥❀Nagi-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀ : ★彡( SEƗSĦƗRO ṈȺGƗ )彡★'
+global.gt = 'Nagi-Bot🈀';
+global.namechannel = '❀🔥❀❦Nagi-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀'
 global.vs = 'V2'
 global.vsJB = '5.0'
 
@@ -85,7 +85,7 @@ ch4: '120363350554513092@newsletter',
 }
 
 //• ↳ ◜𝑭𝑨𝑲𝑬 𝑬𝑺𝑻𝑰𝑳𝑶◞ • 🪩
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻Nagi-Bot🈀', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'HuTao', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '♡٨ﮩ٨ﮩﮩ٨ﮩﮩ٨ﮩ ᗷIEᑎᐯEᑎIᗪO ﮩ٨ﮩﮩ٨ﮩﮩ٨ﮩ٨♡', jpegThumbnail: logo5 }}};
 
@@ -95,7 +95,7 @@ global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ ★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `❀🔥❀❦ǶꓴƬ𐤠Θ-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀\n ★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★͟`, 'jpegThumbnail': logo4 }}}
+global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ ★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `❀🔥❀❦Nagi-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀\n ★彡( SEƗSĦƗRO ṈȺGƗ )彡★͟`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp4 = 'https://chat.whatsapp.com/LcifaLUrmww6CPT27IuSAa' //Grupo Oficial De Hutao
