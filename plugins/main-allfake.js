@@ -32,13 +32,13 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/b91fd8009901954bdbe4a.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/5218711426787'
+global.creador = 'Wa.me/51920227615'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/5218711426787'
-global.namechannel = '❀🔥❀❦ǶꓴƬ𐤠Θ-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀/★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★'
+global.asistencia = 'Wa.me/51920227615'
+global.namechannel = '❀🔥❀❦Nagi-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀/★彡( SEƗSĦƗRO ṈȺGƗ )彡★'
 global.namechannel2 = ''
-global.namegrupo = '✦͙͙͙*͙*❥⃝∗⁎.ʚ ʰᵘᵗᵃᵒ-ᵖʳᵒʸᵉᶜᵗ ɞ.⁎∗❥⃝**͙✦͙͙͙'
-global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝝡𝝣𝗚𝗨𝗠𝗜𝗡'
+global.namegrupo = '꧁༺Desmadre de neko's༻꧂'
+global.namecomu = ''
 global.namecomu2 = ''
 global.colab1 = ''
 global.colab2 = ''
@@ -47,7 +47,7 @@ global.colab3 = ''
 //Ids channel
 global.idchannel = '120363371018732371@newsletter'
 global.canalIdH = ["120363371018732371@newsletter", "120363307382381547@newsletter", "120363263466636910@newsletter"]
-global.canalNombreH = ["◦•●◉✿ 𝐇𝐮𝐓𝐚𝐨 𝐓𝐞𝐬𝐭 ✿◉●•◦", "──͟͞꘩𓎇̶𝐿̸𝑒̤𝑔֟֯፝𝑒⃯𝑛̷̈𝑑̤𝑠͡𔗓𝐵̸͜𝑜𝑡͜ꤩꤨ𝑠ꦁ⃯㍰ꫂ", "⏤͟͟͞͞ sᥱᥒk᥆ sᥲᥒ  • ᴄʜᴀɴɴᴇʟ ᰔᩚ"]
+global.canalNombreH = [""]
 global.channelRD = await getRandomChannel()
 
 //Reacciones De Comandos.!
@@ -55,7 +55,7 @@ global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de HuTao
+//Emojis determinado de Nagi-Bot
 global.emoji = '🔥'
 global.emoji2 = '💥'
 global.emoji3 = '❤️‍🔥'
@@ -69,11 +69,11 @@ global.waittt =  'ꨄ︎ 🅱︎🅰︎🅹︎🅰︎🅽︎🅳︎🅾︎ 🆃�
 global.waitttt = 'ꨄ︎ 🅱︎🅰︎🅹︎🅰︎🅽︎🅳︎🅾︎ 🆃︎🆄︎ 🅲︎🅾︎🅽︎🆃︎🅴︎🅽︎🅸︎🅳︎🅾︎\n🄴🅂🄿🄴🅁🄰 🅄🄽 🄼🄾🄼🄴🄽🅃🄾';
 
 //Enlaces
-var grupo = 'https://chat.whatsapp.com/KxHaM2J0NWPDR4RU24OmFw'
-var canal = 'https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820'  
-var canal2 = 'https://whatsapp.com/channel/0029Vawz6Y91SWsyLezeAb0f'
+var grupo = 'https://chat.whatsapp.com/H5UC1FBtT0pI2YjJZ6zipB'
+var canal = 'https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x'  
+var canal2 = 'https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x'
 var git = 'https://github.com/CheirZ/HuTao-proyect.git' 
-var youtube = 'https://youtube.com/@davidchian4957' 
+var youtube = 'https://youtube.com/@seishironagi-j6e?si=aVdyvu0higOafMey' 
 var github = 'https://github.com/Cheirz/HuTao-Proyect' 
 let correo = 'miguel.doce12000@outlook.com'
 
