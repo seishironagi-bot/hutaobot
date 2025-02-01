@@ -45,8 +45,8 @@ global.colab2 = ''
 global.colab3 = ''
 
 //Ids channel
-global.idchannel = '120363374826926142@newsletter'
-global.canalIdH = ["120363374826926142@newsletter", "120363374826926142@newsletter", "120363374826926142@newsletter"]
+global.idchannel = '120363371018732371@newsletter'
+global.canalIdH = ["120363377595441592@newsletter", "120363374826926142@newsletter"]
 global.canalNombreH = [""]
 global.channelRD = await getRandomChannel()
 
